@@ -16,7 +16,7 @@ delay through E-mail, text messages sent to their home or business computers or 
 phones.
 5. Finally, using E-Ticket is a more environmental friendly approach. The main purpose
 of the online bus ticket system is to provide another way for transnational customers to buy
-their tickets.
+their tickets..
 
 ### UML DIAGRAMS:
 ### USECASE DIAGRAM:
